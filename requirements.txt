@@ -1,0 +1,6 @@
+streamlit
+langchain-community-document-loaders
+langchain-text-splitters
+langchain-core
+langchain-ollama
+pdfplumber
